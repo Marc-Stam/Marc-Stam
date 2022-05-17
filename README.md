@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marc-Stam
 - 👀 I’m interested in Finance, Machine Learning, and Data Science
-- 🌱 I’m currently studying Finance at Tilburg University
+- 🌱 I’m currently studying Data Science and Society at Tilburg University
 - 📫 You can reach me at marcstam10@gmail.com
 
 <!---
